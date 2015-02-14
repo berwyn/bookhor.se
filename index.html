@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>bookhor.se</title>
+		<style>
+			html,
+			body,
+			.bookhorse {
+				margin: 0;
+				padding: 0;
+				min-width: 100vw;
+				min-height: 100vh;
+				overflow: hidden;
+				vertical-align: middle;
+				display: inline-block;
+			}
+
+			.bookhorse {
+				background-image: url('bookhorse.png');
+				background-size: cover;
+			}
+
+			.bookhorse::before {
+				content: '';
+				height: 100%;
+				width: 0;
+				display: inline-block;
+				vertical-align: middle;
+			}
+
+			.meta {
+				width: 100vw;
+				height: 10vh;
+				position: absolute;
+				bottom: 0;
+				z-index: 1;
+				background-color: rgba(0,0,0, 0.5);
+				text-align: center;
+			}
+
+			.meta a {
+				font-family: sans-serif;
+				color: #fff;
+				font-size: 2em;
+				vertical-align: middle;
+				display: inline-block;
+				text-decoration: none;
+			}
+
+			.meta::before {
+				content: '';
+				height: 100%;
+				display: inline-block;
+				vertical-align: middle;
+			}
+
+			img {
+				max-width: 40vw;
+				max-height: 10vh;
+			}
+
+			.pull-left {
+				float: left;
+			}
+
+			.pull-right {
+				float: right;
+			}
+
+			.callout {
+				color: white;
+				font-family: sans-serif;
+				font-size: 1.5em;
+				max-width: 10px;
+				white-space: pre;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="bookhorse"></div>
+		<div class="meta">
+			<a class="pull-left" href="http://nadnerbd.deviantart.com/art/The-Quiet-Corner-504300510">
+				<img src="deviantart.png" alt="Original piece on DeviantART">
+			</a>
+			<div class="pull-right">
+				<span class="callout">With love from</span>
+				<a href="//ponyvillelive.com">
+					<img src="pvl.png" alt="Ponyville Live!">
+				</a>
+			</div>
+		</div>
+	</body>
+</html>
