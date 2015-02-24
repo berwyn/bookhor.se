@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/berwyn
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bookhor.se
+  * I am berwyn (https://keybase.io/berwyn) on keybase.
+  * I have a public key with fingerprint B7FA D870 02CC A26F 04A4  E813 93FF 36C1 5A05 2C13
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b7fad87002cca26f04a4e81393ff36c15a052c13",
+            "host": "keybase.io",
+            "key_id": "93ff36c15a052c13",
+            "kid": "01013d7729d3369429c5bf368c3ec064d0465fc7083057c60f34cfe24ad0b449fc810a",
+            "uid": "7071a870f8c2be01504179a2e9b58300",
+            "username": "berwyn"
+        },
+        "service": {
+            "hostname": "bookhor.se",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424822028,
+    "expire_in": 157680000,
+    "prev": "5b30f15558e78353b709cb54d7ee6327efea00c75854c929a48a1ee46907702e",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.4
+Comment: https://keybase.io/crypto
+
+yMIYAnicbZJtSBRBGMdPLTO19EMlBZVu9EEznX2Znd2DsEIT/VLGFZHhtTs7e27W
+7rm36qmcQaFBhL0QaglRIgQmlfThCiOsCyoLipAUDCkoMQ4xgyJBrVnJb82XYf7P
+//k9L8zzNUme1IS7+Pb8kDLnJLx+uqvO45vOSG9mVEtrZLzNTA1ZunTDDBA7aBum
+w3gZFemKJiEAOIwVTtSBoAhEYnmZ13VexCxUAOQwyzP5TLUVcjMoRlVCpMCwqEYf
+fkOj6n/8NUsBwAKW1xDiZI3nRVngZAxVapUwTzAQBQ0IItQxAhIPIMIi0HkB64QT
+FA2ogiDrWGKBQnF1SzgEEKvQfnUJcyoBLAQCi2SFI7IKKQG4xhCxTeUUcacjdkOj
+yUTyGarVG5i4C3DnWI5bVk21ZReECM0L2pZjYesk1asdJ+h105zGoOtrIKr/H8Gv
+GqZGV0gT6okdMiyT8bLUiR3DRbICJ0gcBzgpnyHhoGETv+E6IBIlQI9bhtRTJFR5
+oLMQQokgiYe8ioCMVShoiBCR5xDRiQIARlCCApY5WREkhSVEEGWAEODchkOk1rTc
+krRPJUCZISNgKk6dTZjIs6FjKzwJqZ7klYnuL/Ckrs5c/hueuhTPzVc3mtv6r7Zt
+ZR4nt2TKtxo6fuoZJz7FxPJw1QvzePvU3Pjo6ORU6RZzYnjCKfzaVx5PHwinNRXh
+1PCvpO+9Zpqvr2Vioafk0b1LRkLI9z5nbN2epPyUDb6jxesXr+U9TDncV3Bo0+Ln
+cPHegUjn+MBIoDU6Xr957nJtYVf8enSy1r/v4siBOxP7Z3Oc+cqBkpkr38rSV2UF
+iuyFWEl/68ZyaXj3oBbrPJfb/aU0MJub1x3r/VgVrxirKgrGRyu09Jdv30Gn/cyP
+N57zf5w2b9bptVw0vv1gT/b0tsEHDY2/k9HIka77ZR8iZ3d2kB0XokORmUpfcm92
+UzTXm/jkL/MwJqY=
+=r3L8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/berwyn
+
+==================================================================
+
